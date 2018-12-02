@@ -1,4 +1,4 @@
-# awsome-ml-infra
+# awesome-ml-infra
 
 Building Machine Learning Infrastructure!
 
