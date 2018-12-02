@@ -14,10 +14,27 @@ Building Machine Learning Infrastructure!
 ## Books
 
 * [分布式机器学习：算法、理论与实践](https://book.douban.com/subject/30360968/)
+* [Serving Machine Learning Models: A Guide to Architecture, Stream Processing Engines, and Frameworks](https://info.lightbend.com/rs/558-NCX-702/images/ebook-serving-machine-learning-models.pdf)
 
 ## Papers
 
 * [A Hitchhiker’s Guide On Distributed Training of Deep Neural Networks](https://arxiv.org/pdf/1810.11787.pdf), [中文](https://www.jiqizhixin.com/articles/2018-11-05-6)
+* [An overview of gradient descent optimization algorithms](https://arxiv.org/pdf/1609.04747.pdf)
+* [Optimization Methods for Large-Scale Machine Learning](https://arxiv.org/pdf/1606.04838.pdf)
+* [A Comparison of Distributed Machine Learning Platforms](https://cse.buffalo.edu/~demirbas/publications/DistMLplat.pdf)
+* [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](https://research.fb.com/wp-content/uploads/2017/12/hpca-2018-facebook.pdf)
+* [CoCoA: A General Framework for Communication-Efficient Distributed Optimization](https://arxiv.org/pdf/1611.02189.pdf)
+* [Device Placement Optimization with Reinforcement Learning](https://arxiv.org/pdf/1706.04972.pdf)
+* [Dynamic Control Flow in Large-Scale Machine Learning](https://arxiv.org/pdf/1805.01772.pdf)
+* [Large Scale Distributed Deep Networks](https://ai.google/research/pubs/pub40565.pdf)
+* [Large Scale Machine Learning by Ronan Collobert, 2004](https://ronan.collobert.com/pub/matos/2004_phdthesis_lip6.pdf)
+* [Large-Scale Machine Learning and Applications](https://hal.inria.fr/tel-01629997/document)
+* [Machine Learning: The High-Interest Credit Card of Technical Debt](https://research.google.com/pubs/archive/43146.pdf)
+* [MLbase: A Distributed Machine-learning System](http://cidrdb.org/cidr2013/Papers/CIDR13_Paper118.pdf)
+* [More Effective Distributed ML via a Stale Synchronous Parallel Parameter Server](http://www.pdl.cmu.edu/PDL-FTP/HECStorage/lazytables.pdf)
+* [Revisiting Distributed Synchronous SGD](https://arxiv.org/pdf/1604.00981.pdf)
+* [Automatic Differentiation in Machine Learning: a Survey](https://arxiv.org/pdf/1502.05767.pdf)
+* [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://arxiv.org/pdf/1811.06965.pdf)
 
 ## MISC
 
