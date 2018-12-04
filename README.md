@@ -49,6 +49,8 @@ Building Machine Learning Infrastructure!
 
 ## Solutions of Companies
 
+* [PPT](https://github.com/GHGmc2/awesome-ml-infra/tree/master/ppt)
+
 ### Google
 
 * [Large Scale Distributed Deep Networks解读](https://zhuanlan.zhihu.com/p/29617547)
