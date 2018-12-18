@@ -35,6 +35,7 @@ Building Machine Learning Infrastructure!
 * [Revisiting Distributed Synchronous SGD](https://arxiv.org/pdf/1604.00981.pdf)
 * [Automatic Differentiation in Machine Learning: a Survey](https://arxiv.org/pdf/1502.05767.pdf)
 * [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://arxiv.org/pdf/1811.06965.pdf)
+* [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/pdf/1706.02677.pdf)
 
 ## MISC
 
@@ -43,13 +44,15 @@ Building Machine Learning Infrastructure!
 * [分布式机器学习 / 深度学习论文整理](http://jcf94.com/2017/12/20/2017-12-20-distributeddl/)
 * [大规模机器学习框架的四重境界](https://zhuanlan.zhihu.com/p/29968773)
 * [Jeff Dean、贾扬清等ScaledML大会演讲](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652016337&idx=1&sn=d2e7d24d412a64bd9825591455fa9944)
-* [TensorFlow分布式训练加速之梯度压缩](https://zhuanlan.zhihu.com/p/32016451), [TensorFlow 分布式训练的线性加速实践](https://zhuanlan.zhihu.com/p/34172340)
+* [TensorFlow分布式训练加速之梯度压缩](https://zhuanlan.zhihu.com/p/32016451)
+* [TensorFlow 分布式训练的线性加速实践](https://zhuanlan.zhihu.com/p/34172340)
+* [实现Tensorflow多机并行线性加速](https://zhuanlan.zhihu.com/p/29149294)
 * [机器学习平台的优化器：优化篇](https://mp.weixin.qq.com/s?__biz=MzIzMjU1NTg3Ng==&mid=2247485870&idx=1&sn=3c40e9a2865dd45fbe14f745be62315f), [平台篇](https://mp.weixin.qq.com/s?__biz=MzIzMjU1NTg3Ng==&mid=2247485842&idx=1&sn=f4960ef2bf500041934a41d7ff53c2a6)
 * [知乎讨论：做底层 AI 框架or做上层 AI 应用](https://www.zhihu.com/question/52820499)
 
 ## Solutions of Companies
 
-* [PPT](https://github.com/GHGmc2/awesome-ml-infra/tree/master/ppt)
+* [PPTs](https://github.com/GHGmc2/awesome-ml-infra/tree/master/ppt)
 
 ### Google
 
@@ -106,7 +109,7 @@ Building Machine Learning Infrastructure!
 * [第四范式先知平台的整体架构和实现细节](http://www.infoq.com/cn/articles/the-fourth-paradigm-prophet-platform), [附PPT版](https://mp.weixin.qq.com/s?__biz=MzAwMjM2Njg2Nw==&mid=2653145179&idx=1&sn=e1c9f0009431443c32acfc46ff4b4e7b)
 * [陈迪豪分享视频](http://www.itdks.com/user/11208)
 
-### Uber? 网易
+### 网易
 
 * [大规模机器学习平台的架构与实际应用](http://www.infoq.com/cn/presentations/architecture-and-practical-of-large-scale-machine-learning-platform)
 

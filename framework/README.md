@@ -22,6 +22,15 @@
 > [Github](https://github.com/tensorflow/mesh)
 > [Mesh-TensorFlow: Deep Learning for Supercomputers](https://arxiv.org/pdf/1811.02084.pdf)
 
+### [Uber Horovod](https://eng.uber.com/horovod/)
+> [Github](https://github.com/uber/horovod)
+> [Horovod: fast and easy distributed deep learning in TensorFlow](https://arxiv.org/pdf/1802.05799.pdf)
+
+* [视频：An Uber Journey in Distributed Deep Learning](https://www.youtube.com/watch?v=SphfeTl70MI)
+* [Horovod 通信策略](https://zhuanlan.zhihu.com/p/45439173)
+* [Bringing HPC Techniques to Deep Learning](http://andrew.gibiansky.com/blog/machine-learning/baidu-allreduce/)
+
+
 ## [PyTorch](https://pytorch.org/)
 > [Caffe: Convolutional Architecture for Fast Feature Embedding](https://arxiv.org/pdf/1408.5093.pdf)
 > [Github](https://github.com/pytorch/pytorch)
